@@ -1,0 +1,1 @@
+ATR_xxx = "col_name"
